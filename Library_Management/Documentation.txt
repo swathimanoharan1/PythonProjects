@@ -1,0 +1,60 @@
+Library Management System
+
+This Library Management System is a Python-based project that allows users to manage books, including adding, removing, issuing, returning, searching, and displaying books. The system uses core Python concepts such as dictionaries, file handling, and functions to provide a simple yet effective way to manage a library.
+
+Features
+
+1. Add Book: Add a new book to the system by providing its title and author.
+2. Remove Book: Remove a book from the system using its unique ID.
+3. Issue Book: Issue a book to a user, updating the book's status.
+4. Return Book: Return a book previously issued to a user, making it available again.
+5. Search Book: Search for books based on their title or author.
+6. Display Books: Display all books in the system, along with their status (available, issued).
+
+Project Structure
+
+The project is divided into the following Python files:
+
+- `book_management.py`: Handles the core functionalities related to books, such as adding, removing, issuing, and returning books.
+- `file_handling.py`: Manages the reading and writing of book data to a CSV file, ensuring persistence between sessions.
+- `main.py`: The entry point of the application, providing a command-line interface for interacting with the system.
+
+File: `book_management.py`
+
+This module handles all the book-related operations. It includes the following functions:
+
+- `add_book(book_id, title, author)`: Adds a book to the system.
+- `remove_book(book_id)`: Removes a book from the system using its ID.
+- `issue_book(book_id, user)`: Issues a book to a user.
+- `return_book(book_id)`: Returns a book from a user.
+- `search_book(query)`: Searches for books by title or author.
+- `display_books()`: Displays all the books in the system.
+
+File: `file_handling.py`
+
+This module is responsible for managing book data persistence. It includes the following functions:
+
+- `load_books(filename="data/books.csv")`: Loads book data from a CSV file into the system.
+- `save_books(filename="data/books.csv")`: Saves the current book data to a CSV file.
+
+File: `main.py`
+
+This module is the entry point for the command-line interface. It provides a menu-based interaction for users to manage the library. The user can add, remove, issue, return, search, and display books, and save the changes before exiting.
+
+How to Run
+
+1. Ensure you have Python installed on your system.
+2. Clone the repository or download the project files.
+3. Run the `main.py` file using the command:
+   python main.py
+
+
+4. Follow the on-screen menu to interact with the Library Management System.
+
+Future Improvements
+
+- Implement a user management system to track users separately from books.
+- Add a reporting feature to generate summaries of issued and returned books.
+- Implement validation checks for inputs to ensure data integrity.
+- Add more detailed logging and error handling.
+
