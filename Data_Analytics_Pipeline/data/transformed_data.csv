@@ -1,0 +1,55 @@
+Transaction_ID,Date,Customer_ID,Product_ID,Product_Category,Quantity,Price_per_Unit,Payment_Method,Store_Location,Total_Amount
+T001,2024-08-06,C945,P014,Toys,6,339.48,Mobile Payment,Los Angeles,2036.88
+T003,2024-08-13,C125,P022,Electronics,9,703.83,Mobile Payment,Chicago,6334.47
+T005,2024-08-02,C277,P036,Groceries,8,512.97,Cash,Chicago,4103.76
+T006,2024-08-13,C743,P045,Electronics,9,424.56,Cash,New York,3821.04
+T008,2024-08-28,C210,P019,Clothing,9,616.12,Cash,New York,5545.08
+T009,2024-08-06,C178,P026,Groceries,7,771.1,Cash,Los Angeles,5397.7
+T011,2024-08-06,C872,P047,Groceries,7,328.3,Mobile Payment,Houston,2298.1
+T012,2024-08-17,C438,P024,Groceries,8,833.03,Credit Card,Los Angeles,6664.24
+T014,2024-08-01,C910,P037,Groceries,8,705.36,Mobile Payment,New York,5642.88
+T015,2024-08-29,C996,P020,Groceries,6,375.26,Debit Card,Los Angeles,2251.56
+T018,2024-08-07,C607,P003,Electronics,8,697.68,Cash,Los Angeles,5581.44
+T021,2024-08-13,C916,P014,Electronics,7,967.16,Debit Card,Houston,6770.12
+T023,2024-08-26,C698,P023,Electronics,10,940.78,Credit Card,Chicago,9407.8
+T024,2024-08-18,C527,P023,Furniture,9,32.72,Debit Card,Los Angeles,294.48
+T025,2024-08-12,C693,P022,Groceries,7,80.17,Credit Card,Chicago,561.19
+T027,2024-08-07,C849,P047,Clothing,7,396.88,Debit Card,Chicago,2778.16
+T032,2024-08-23,C852,P009,Clothing,8,965.69,Cash,Chicago,7725.52
+T033,2024-08-06,C140,P008,Furniture,10,752.61,Debit Card,Miami,7526.1
+T034,2024-08-20,C359,P004,Clothing,7,128.52,Cash,Houston,899.6400000000001
+T035,2024-08-13,C521,P028,Toys,8,955.95,Credit Card,Los Angeles,7647.6
+T036,2024-08-07,C534,P047,Groceries,8,242.22,Cash,New York,1937.76
+T038,2024-08-22,C239,P011,Toys,10,185.51,Debit Card,Houston,1855.1
+T039,2024-08-01,C917,P003,Furniture,9,600.14,Debit Card,New York,5401.26
+T041,2024-08-20,C711,P011,Furniture,10,218.5,Credit Card,Los Angeles,2185.0
+T042,2024-08-11,C491,P010,Electronics,8,84.3,Debit Card,Miami,674.4
+T043,2024-08-27,C983,P032,Groceries,8,429.85,Mobile Payment,Houston,3438.8
+T044,2024-08-27,C277,P043,Clothing,7,65.02,Cash,Miami,455.14
+T049,2024-08-19,C994,P004,Toys,9,803.0,Mobile Payment,Chicago,7227.0
+T052,2024-08-04,C638,P048,Toys,10,669.11,Cash,New York,6691.1
+T056,2024-08-20,C201,P050,Clothing,10,192.47,Debit Card,Chicago,1924.7
+T057,2024-08-09,C177,P037,Clothing,7,929.76,Mobile Payment,Houston,6508.32
+T058,2024-08-01,C968,P014,Clothing,10,200.06,Credit Card,Chicago,2000.6
+T059,2024-08-05,C269,P022,Groceries,10,158.44,Credit Card,Miami,1584.4
+T060,2024-08-23,C773,P036,Furniture,6,178.57,Cash,Houston,1071.42
+T061,2024-08-24,C214,P002,Groceries,9,474.81,Credit Card,Miami,4273.29
+T065,2024-07-31,C704,P042,Clothing,10,725.84,Cash,Houston,7258.400000000001
+T066,2024-08-29,C702,P027,Toys,10,568.85,Mobile Payment,Los Angeles,5688.5
+T067,2024-08-14,C584,P021,Furniture,9,689.39,Cash,Miami,6204.51
+T068,2024-08-11,C740,P029,Electronics,6,701.16,Credit Card,Chicago,4206.96
+T069,2024-08-24,C375,P039,Groceries,10,242.55,Debit Card,Chicago,2425.5
+T072,2024-08-27,C426,P006,Groceries,7,319.48,Mobile Payment,Los Angeles,2236.36
+T074,2024-08-15,C891,P035,Furniture,8,758.92,Debit Card,Los Angeles,6071.36
+T076,2024-08-20,C786,P004,Furniture,8,182.29,Mobile Payment,Los Angeles,1458.32
+T077,2024-08-04,C145,P037,Groceries,10,740.76,Credit Card,Los Angeles,7407.6
+T081,2024-08-14,C480,P047,Furniture,6,829.42,Debit Card,Miami,4976.52
+T085,2024-08-14,C104,P025,Furniture,6,398.19,Cash,Miami,2389.14
+T089,2024-08-16,C743,P042,Electronics,6,608.26,Credit Card,Los Angeles,3649.56
+T090,2024-08-10,C868,P024,Toys,9,235.31,Credit Card,Miami,2117.79
+T093,2024-08-18,C939,P035,Furniture,6,131.02,Mobile Payment,New York,786.1200000000001
+T096,2024-08-04,C492,P018,Toys,8,630.32,Cash,Los Angeles,5042.56
+T097,2024-08-13,C111,P041,Toys,10,101.13,Debit Card,Houston,1011.3
+T098,2024-08-04,C336,P015,Clothing,9,453.38,Credit Card,New York,4080.42
+T099,2024-08-01,C157,P033,Toys,6,43.78,Credit Card,Los Angeles,262.68
+T100,2024-08-13,C452,P038,Groceries,8,246.51,Debit Card,Miami,1972.08

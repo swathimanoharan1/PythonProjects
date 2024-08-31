@@ -1,0 +1,21 @@
+Step 1: Data Extraction
+Use Pandas to extract data from csv file
+
+Step 2: Data Transformation
+Filtering and transforming the data according to our requirements
+Convert the transformed data back to csv format
+
+Step 3: Data Loading
+Loading transformed data into an SQL database using SQLAlchemy
+
+Step 4: Data Analysis
+Do basic statistical analysis of the transformed data
+
+Step 5: Data Visualization
+Generate visual reports from the data using Matplotlib
+
+Step 6: Task Scheduling:
+Use Celery to schedule and automate the entrire data processing pipeline.
+
+Step 7: Main Scripts
+Trigger the data processing pipeline, scheduling the tasks using Celery
